@@ -1,0 +1,9 @@
+app-editors/emacs xft
+app-editors/vim -acl
+app-editors/vim-core -acl
+app-i18n/fcitx -xml -table 
+app-text/enchant aspell -hunspell 
+app-text/texlive extra
+dev-lang/python tk
+net-misc/networkmanager -wifi -wext
+sys-libs/glibc userlocales
